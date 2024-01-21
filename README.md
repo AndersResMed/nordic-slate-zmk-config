@@ -1,3 +1,7 @@
+# Im trying to create a Nordic Blank Slate ZMK Firmware
+
+Im a complete idiot so you are on your own if you try this out. 
+
 # Blank Slate ZMK Firmware
 
 This repo contains the firmware for the Blank Slate PCB.
